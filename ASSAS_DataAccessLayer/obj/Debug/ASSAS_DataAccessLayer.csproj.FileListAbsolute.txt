@@ -1,0 +1,9 @@
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\ASSAS_DataAccessLayer.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\ASSAS_DataAccessLayer.pdb
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\obj\Debug\ASSAS_DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\obj\Debug\ASSAS_DataAccessLayer.dll
+C:\Users\jovial\documents\visual studio 2012\Projects\ArmySupplyAutomation\ASSAS_DataAccessLayer\obj\Debug\ASSAS_DataAccessLayer.pdb
